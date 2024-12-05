@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364096947529",
+    "project_id": "flutterchatpro-9430f",
+    "storage_bucket": "flutterchatpro-9430f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364096947529:android:2780ca23c507b897ca0698",
+        "android_client_info": {
+          "package_name": "com.pvh.flutterchatpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMp33WNs3mVnnd7DDe5XqZr9rfianSHjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
